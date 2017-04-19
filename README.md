@@ -2,6 +2,6 @@
 
 快速鏈接：
 
-【新手上路】 Angular 4 之如何開始 （Angular CLI）
+1. 【新手上路】 Angular 4 之如何開始 （Angular CLI）
 
 https://goo.gl/yELWzT
